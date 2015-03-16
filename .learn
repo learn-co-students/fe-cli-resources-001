@@ -1,0 +1,10 @@
+languages:
+  - bash
+tags:
+  - cli
+  - terminal
+  - basics
+  - beginner
+type:
+  - resources
+resources: 1
