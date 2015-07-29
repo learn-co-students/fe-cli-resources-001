@@ -1,9 +1,4 @@
----
-language: bash
-tags: cli, terminal, basics, beginner
-type: resources
-resources: 1
----
+
 
 ## Resources
 
